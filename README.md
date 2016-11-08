@@ -14,3 +14,5 @@ Under "Select the skin you wish Steam to use (requires Steam to restart)" choose
 the folder you put all the folders in.
 
 Tada! Restart steam and you are good to go.
+
+![Alt text](https://lh5.googleusercontent.com/ZUBDJknGZVb_siNYJqyDWeN2W0M3a_hqO42D9KWrP6o_6yek01fSfiy3BVAzu8fx3gumuZzI48ZBpeQ=w1920-h950-rw "Screenshot of Mackes steam")
