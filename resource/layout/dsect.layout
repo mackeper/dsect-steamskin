@@ -1,0 +1,41 @@
+"resource/layout/dsect.layout"
+{
+	controls
+	{
+		"dsect_logo"
+		{
+			"ControlName" "Label"
+			"labelText"	"test"
+			style="DsectLogo"
+		}
+	}
+	
+	styles
+	{
+		DsectLogo
+		{
+			textcolor="Labelfocus"
+			bgcolor="none"
+			font-family=basefont
+			font-size=24
+			font-weight=400 
+			font-style="uppercase"
+			padding-left=5
+			padding-right=5
+		}
+		
+	}
+	
+	colors
+	{
+	
+	}
+	
+	layout
+	{
+		//dSect logo
+		place { control="dsect_logo" x=0 y=0 height=80 width=80}
+	}
+
+}
+
